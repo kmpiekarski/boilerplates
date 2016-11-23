@@ -11,6 +11,7 @@
   <meta property="og:title" content="___FILL_IN___"/>
   <meta property="og:url" content="___FILL_IN___"/>
   <meta property="og:type" content="website"/>
+  <!-- <meta property="og:image" content="http://ia.media-imdb.com/images/rock.jpg"-->
   <!-- Use name of page -->
   <meta itemprop="name" content="___FILL_IN___"/>
   <!-- URL of page -->
